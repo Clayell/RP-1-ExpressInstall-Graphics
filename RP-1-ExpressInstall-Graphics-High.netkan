@@ -28,8 +28,6 @@ depends:
     suppress_recommendations: true
   - name: DistantObject
     suppress_recommendations: true
-  - name: PlanetShine
-    suppress_recommendations: true
   - name: CanaveralPads
     suppress_recommendations: true
   - name: RP-1-ExpressInstall
