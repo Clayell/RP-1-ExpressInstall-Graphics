@@ -24,8 +24,6 @@ depends:
     suppress_recommendations: true
   - name: DistantObject
     suppress_recommendations: true
-  - name: PlanetShine
-    suppress_recommendations: true
   - name: RP-1-ExpressInstall
 provides:
   - RP-1-ExpressInstall-Graphics
