@@ -16,8 +16,6 @@ depends:
     suppress_recommendations: true
   - name: Parallax
     suppress_recommendations: true
-  - name: Scatterer-sunflare-default
-    suppress_recommendations: true
   - name: Scatterer-config
     suppress_recommendations: true
   - name: Scatterer
